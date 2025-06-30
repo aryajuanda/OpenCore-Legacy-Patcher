@@ -1158,6 +1158,10 @@ class intel_ids:
         0x10F6,  # 82574L
     ]
 
+class intelaudio_ids:
+    IntelAudioIDs = [
+        0xa2f0,
+    ]
 
 class broadcom_ids:
     AppleBCMWLANBusInterfacePCIe = [
