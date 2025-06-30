@@ -38,7 +38,7 @@ class ModernAudio(BaseHardware):
 
     def native_os(self) -> bool:
         """
-        Only applicable for macOS 15.5 (Tahoe) and newer
+        Only applicable for macOS 26 (Tahoe) and newer
         """
         return self._xnu_major < os_data.tahoe.value
 
