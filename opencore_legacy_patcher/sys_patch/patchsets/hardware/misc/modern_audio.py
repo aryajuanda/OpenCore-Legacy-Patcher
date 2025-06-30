@@ -1,5 +1,6 @@
 """
 modern_audio.py: Modern Audio support for macOS Tahoe and newer
+Originaly created by https://github.com/laobamac/OCLP-Mod
 """
 
 from ..base import BaseHardware, HardwareVariant
